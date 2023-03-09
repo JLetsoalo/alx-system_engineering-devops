@@ -1,3 +1,2 @@
 #!/bib/bash
-cd /tmp
-mkdir my_first_directory
+mkdir ../root/tmp/my_first_directory
